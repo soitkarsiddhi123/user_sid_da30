@@ -1,0 +1,6 @@
+batch da30
+time 8:30 but class starts at 8:40
+
+git status :- gives information about current git status
+git add filename :- add single file to git local memory 
+git add . :_ adds all file to git local memory
